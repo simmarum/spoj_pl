@@ -1,0 +1,4 @@
+# Scala
+.scalafmt.conf
+.metals
+*.class
